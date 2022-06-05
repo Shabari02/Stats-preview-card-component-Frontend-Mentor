@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component
 
-# Click <a href="https://shabari02.github.io/Stats-preview-card-component-Frontend-Mentor/">Here</a> to play ☺️
+# Click <a href="https://shabari02.github.io/Stats-preview-card-component-Frontend-Mentor/">Here</a> to view ☺️
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
